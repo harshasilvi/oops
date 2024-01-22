@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f140cda8-2682-4d84-a04e-6d86df64e589" name="Changes" comment="" />
+    <list default="true" id="f140cda8-2682-4d84-a04e-6d86df64e589" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Comparable_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Comparable_Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Employe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/TrywithFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/TrywithFinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/TrywithNestedCatchFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/TrywithNestedCatchFinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/throw_throwsexception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/throw_throwsexception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/trywithmultiplecatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/trywithmultiplecatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreading/Runnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/Runnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreading/Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreading/ThreadOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ThreadOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/Static.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -16,12 +55,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.ThreadOperations (1)">
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Map" />
+      <module name="Javaoopss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.MyThread" />
+      <module name="Javaoopss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Set" />
+      <module name="Javaoopss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadOperations (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.ThreadOperations" />
+      <module name="Javaoopss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.ThreadOperations" />
+      <module name="Javaoopss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadOperations (1)" />
+        <item itemvalue="Application.ThreadOperations" />
+        <item itemvalue="Application.MyThread" />
+        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.Set" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

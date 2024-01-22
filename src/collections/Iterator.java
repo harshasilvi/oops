@@ -1,2 +1,7 @@
-package collections;public class Iterator {
+package collections;
+
+public class Iterator {
+    public static void main(String[] args){
+
+    }
 }

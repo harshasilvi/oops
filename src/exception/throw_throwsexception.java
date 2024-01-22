@@ -1,6 +1,6 @@
 package exception;
 
-public class throwexception  {
+public class throw_throwsexception {
 
     public static double area(int r) throws NegativeArraySizeException{
         if (r<0){//program will terminate here if r<1
